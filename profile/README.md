@@ -30,6 +30,18 @@ To get started with our projects:
 2. **Install dependencies:** Follow the installation instructions provided in the specific project directories.
 3. **Explore the documentation:** Each project comes with detailed documentation on its setup, usage, and contribution guidelines.
 
+## Code Repositories
+
+We have several open-source repositories that showcase our work and provide resources for the community. Below is a list of our currently available repositories:
+
+1. [**DriveVLM**](https://github.com/LiAutoAD/DriveVLM)
+
+2. [**TOD3Cap**](https://github.com/LiAutoAD/TOD3Cap)
+
+3. [**StreetGaussians**](https://github.com/LiAutoAD/street_gaussians)
+
+4. [**UA-Track**](https://github.com/LiAutoAD/ua-track-website)
+
 ## Contribution Guidelines
 
 We welcome contributions from the community! Whether you're interested in fixing bugs, adding new features, or improving documentation, your help is appreciated. Please refer to our `CONTRIBUTING.md` file for more details on how to contribute.
