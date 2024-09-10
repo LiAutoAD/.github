@@ -42,6 +42,8 @@ We have several open-source repositories that showcase our work and provide reso
 
 4. [**UA-Track**](https://github.com/LiAutoAD/ua-track-website)
 
+5. [**DiVE**](https://prokaryote-hgy.github.io/DiVE/)
+
 ## Contribution Guidelines
 
 We welcome contributions from the community! Whether you're interested in fixing bugs, adding new features, or improving documentation, your help is appreciated. Please refer to our `CONTRIBUTING.md` file for more details on how to contribute.
