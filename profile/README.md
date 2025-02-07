@@ -44,6 +44,9 @@ We have several open-source repositories that showcase our work and provide reso
 
 5. [**DiVE**](https://prokaryote-hgy.github.io/DiVE/)
 
+6. [**STR2**](https://github.com/LiAutoAD/StateTransformer)
+
+
 ## Contribution Guidelines
 
 We welcome contributions from the community! Whether you're interested in fixing bugs, adding new features, or improving documentation, your help is appreciated. Please refer to our `CONTRIBUTING.md` file for more details on how to contribute.
