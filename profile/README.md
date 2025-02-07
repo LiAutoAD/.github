@@ -35,17 +35,17 @@ To get started with our projects:
 We have several open-source repositories that showcase our work and provide resources for the community. Below is a list of our currently available repositories:
 
 1. [**DriveVLM**](https://github.com/LiAutoAD/DriveVLM)
-
-2. [**TOD3Cap**](https://github.com/LiAutoAD/TOD3Cap)
-
-3. [**StreetGaussians**](https://github.com/LiAutoAD/street_gaussians)
-
-4. [**UA-Track**](https://github.com/LiAutoAD/ua-track-website)
-
-5. [**DiVE**](https://prokaryote-hgy.github.io/DiVE/)
-
-6. [**STR2**](https://github.com/LiAutoAD/StateTransformer)
-
+1. [**TOD3Cap**](https://github.com/LiAutoAD/TOD3Cap)
+1. [**StreetGaussians**](https://github.com/LiAutoAD/street_gaussians)
+1. [**UA-Track**](https://github.com/LiAutoAD/ua-track-website)
+1. [**DiVE**](https://prokaryote-hgy.github.io/DiVE/)
+1. [**STR2**](https://github.com/LiAutoAD/StateTransformer)
+1. [**GaussianAD**](https://github.com/LiAutoAD/GaussianAD)
+1. [**3DRealCar**](https://github.com/LiAutoAD/3DRealCar_Dataset)
+1. [**DriveDreamer4D**](https://github.com/LiAutoAD/DriveDreamer4D/tree/main)
+1. [**ReconDreamer**](https://github.com/LiAutoAD/ReconDreamer)
+1. [**DrivingSphere**](https://github.com/yanty123/DrivingSphere)
+2. [**StreetCrafter**](https://github.com/LiAutoAD/street_crafter)
 
 ## Contribution Guidelines
 
