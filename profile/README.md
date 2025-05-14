@@ -46,6 +46,7 @@ We have several open-source repositories that showcase our work and provide reso
 1. [**ReconDreamer**](https://github.com/LiAutoAD/ReconDreamer)
 1. [**DrivingSphere**](https://github.com/yanty123/DrivingSphere)
 2. [**StreetCrafter**](https://github.com/LiAutoAD/street_crafter)
+3. [**Ristretto-3B**](https://huggingface.co/LiAutoAD/Ristretto-3B)
 
 ## Contribution Guidelines
 
