@@ -45,8 +45,9 @@ We have several open-source repositories that showcase our work and provide reso
 1. [**DriveDreamer4D**](https://github.com/LiAutoAD/DriveDreamer4D/tree/main)
 1. [**ReconDreamer**](https://github.com/LiAutoAD/ReconDreamer)
 1. [**DrivingSphere**](https://github.com/yanty123/DrivingSphere)
-2. [**StreetCrafter**](https://github.com/LiAutoAD/street_crafter)
-3. [**Ristretto-3B**](https://huggingface.co/LiAutoAD/Ristretto-3B)
+1. [**StreetCrafter**](https://github.com/LiAutoAD/street_crafter)
+1. [**Ristretto-3B**](https://huggingface.co/LiAutoAD/Ristretto-3B)
+1. [**Hierarchy UGP**](https://sunhongyang10.github.io/Project_Page_HierarchyUGP/)
 
 ## Contribution Guidelines
 
